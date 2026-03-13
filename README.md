@@ -9,34 +9,30 @@
 
 ## My Skills
 
-**Game Dev & 3D Art**
+### Game Dev & 3D Art
 
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-000000?style=flat&logo=unreal-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)
 ![Ren'Py](https://img.shields.io/badge/-Ren'Py-ff7f7f?style=flat&logo=python&logoColor=white)
 ![Daz 3D](https://img.shields.io/badge/-Daz%203D-23a3fb?style=flat&logo=target&logoColor=white)
 
-**Software Development**
+### Web Development
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=radixui&logoColor=white)
+
+### Software Development
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Infrastructure & Security**
-
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
-![Security](https://img.shields.io/badge/-Security%20%26%20DRM-red?style=flat&logo=pre-commit&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-**Tools**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google-analytics&logoColor=E37400)
-
 <br/>
 
 ## Where to find me
